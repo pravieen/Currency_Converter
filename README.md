@@ -10,7 +10,9 @@
 
 ## Screenshots
 
-<img width="335" alt="Screenshot 1" src="https://github.com/pravieen/Currency_Converter/assets/100255410/7700f8a1-a2e8-4575-aa9a-bc9fc1f53632">
-<img width="335" alt="Screenshot 2" src="https://github.com/pravieen/Currency_Converter/assets/100255410/95e8d355-d669-433e-afe7-d6e9c5b75ffc">
-<img width="335" alt="Screenshot 3" src="https://github.com/pravieen/Currency_Converter/assets/100255410/51a512e7-b1f1-49e9-867e-fb9b1739844b">
+<img width="359" alt="Screenshot 2023-08-06 at 7 02 07 PM" src="https://github.com/pravieen/Currency_Converter/assets/100255410/2489016e-8abb-42a4-8323-d180d1cd7061">
+<img width="359" alt="Screenshot 2023-08-06 at 7 02 15 PM" src="https://github.com/pravieen/Currency_Converter/assets/100255410/05f6e93f-6dda-4c3a-9ce9-a9477f27366c">
+<img width="359" alt="Screenshot 2023-08-06 at 7 02 33 PM" src="https://github.com/pravieen/Currency_Converter/assets/100255410/70c758da-cdba-42b5-b9ec-76da01520df9">
+<img width="359" alt="Screenshot 2023-08-06 at 10 53 49 PM" src="https://github.com/pravieen/Currency_Converter/assets/100255410/2f4a1b4d-89e3-4155-84d6-52e98b971d4b">
+
 
